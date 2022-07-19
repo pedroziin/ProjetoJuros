@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoJurosAPI", "CalculoJurosAPI\CalculoJurosAPI.csproj", "{5EF60265-2019-4787-AF3B-5ED813BF0234}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxaJurosAPI", "TaxaJurosAPI\TaxaJurosAPI.csproj", "{38600579-46FC-4536-BB06-4E3F1F1AFE68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9FEB7464-6602-4E6A-8E2E-9498E59C9A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unitario", "Tests\Unitario\Unitario.csproj", "{6DE9F7B7-5874-439E-96D7-A81F8635D3D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF60265-2019-4787-AF3B-5ED813BF0234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF60265-2019-4787-AF3B-5ED813BF0234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF60265-2019-4787-AF3B-5ED813BF0234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF60265-2019-4787-AF3B-5ED813BF0234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38600579-46FC-4536-BB06-4E3F1F1AFE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38600579-46FC-4536-BB06-4E3F1F1AFE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38600579-46FC-4536-BB06-4E3F1F1AFE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38600579-46FC-4536-BB06-4E3F1F1AFE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE9F7B7-5874-439E-96D7-A81F8635D3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE9F7B7-5874-439E-96D7-A81F8635D3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE9F7B7-5874-439E-96D7-A81F8635D3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE9F7B7-5874-439E-96D7-A81F8635D3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6DE9F7B7-5874-439E-96D7-A81F8635D3D7} = {9FEB7464-6602-4E6A-8E2E-9498E59C9A58}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C2FF61-7E1C-4B84-9E36-8AE7384EFC60}
+	EndGlobalSection
+EndGlobal

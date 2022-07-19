@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ov/0aXs5M7v6FzXbI85dUjcnYqBtj7aWHcOQu6vZuri10yj7aKQt09QyuLxMEuwGN0vIToQ4WJAzRDdvNbvifg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phbit\\OneDrive\\Documentos\\ProjetoJuros\\TaxaJurosAPI\\TaxaJurosAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phbit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\phbit\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\phbit\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\phbit\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.3\\swashbuckle.aspnetcore.5.3.3.nupkg.sha512",
+    "C:\\Users\\phbit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.3\\swashbuckle.aspnetcore.swagger.5.3.3.nupkg.sha512",
+    "C:\\Users\\phbit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.3\\swashbuckle.aspnetcore.swaggergen.5.3.3.nupkg.sha512",
+    "C:\\Users\\phbit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.3\\swashbuckle.aspnetcore.swaggerui.5.3.3.nupkg.sha512",
+    "C:\\Users\\phbit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\phbit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\phbit\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

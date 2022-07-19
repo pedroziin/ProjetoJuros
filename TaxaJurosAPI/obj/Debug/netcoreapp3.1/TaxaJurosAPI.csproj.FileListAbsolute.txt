@@ -1,0 +1,50 @@
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.exe
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.deps.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.csproj.AssemblyReference.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.AssemblyInfoInputs.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.AssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.csproj.CoreCompileInputs.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\staticwebassets\TaxaJurosAPI.StaticWebAssets.Manifest.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.csproj.CopyComplete
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.genruntimeconfig.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.exe
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.deps.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\TaxaJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.csproj.AssemblyReference.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.AssemblyInfoInputs.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.AssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.csproj.CoreCompileInputs.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\staticwebassets\TaxaJurosAPI.StaticWebAssets.Manifest.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.csproj.CopyComplete
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\TaxaJurosAPI\obj\Debug\netcoreapp3.1\TaxaJurosAPI.genruntimeconfig.cache

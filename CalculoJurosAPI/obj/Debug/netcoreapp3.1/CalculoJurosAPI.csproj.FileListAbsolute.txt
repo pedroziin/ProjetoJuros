@@ -1,0 +1,82 @@
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.exe
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.deps.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.csproj.AssemblyReference.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.AssemblyInfoInputs.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.AssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.csproj.CoreCompileInputs.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\staticwebassets\CalculoJurosAPI.StaticWebAssets.Manifest.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.csproj.CopyComplete
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.genruntimeconfig.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.exe
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.deps.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\CalculoJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.csproj.AssemblyReference.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.AssemblyInfoInputs.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.AssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.csproj.CoreCompileInputs.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\staticwebassets\CalculoJurosAPI.StaticWebAssets.Manifest.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.csproj.CopyComplete
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\CalculoJurosAPI\obj\Debug\netcoreapp3.1\CalculoJurosAPI.genruntimeconfig.cache

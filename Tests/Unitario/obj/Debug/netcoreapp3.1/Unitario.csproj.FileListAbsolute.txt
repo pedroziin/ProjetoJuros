@@ -1,0 +1,270 @@
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.deps.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.exe
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.deps.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.exe
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.deps.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.pdb
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\AutoFixture.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Fare.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.csproj.AssemblyReference.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.AssemblyInfoInputs.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.AssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.csproj.CoreCompileInputs.cache
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.csproj.CopyComplete
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.dll
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.pdb
+C:\Users\phbit\OneDrive\Documentos\devops\API-Calculo-de-Juros-main\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.genruntimeconfig.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.deps.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.exe
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.deps.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.exe
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.deps.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.runtimeconfig.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.runtimeconfig.dev.json
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Unitario.pdb
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\AutoFixture.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Fare.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\CalculoJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\bin\Debug\netcoreapp3.1\TaxaJurosAPI.pdb
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.csproj.AssemblyReference.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.AssemblyInfoInputs.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.AssemblyInfo.cs
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.csproj.CoreCompileInputs.cache
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.csproj.CopyComplete
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.dll
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.pdb
+C:\Users\phbit\OneDrive\Documentos\Área de Trabalho\ProjetoJuros\Tests\Unitario\obj\Debug\netcoreapp3.1\Unitario.genruntimeconfig.cache
